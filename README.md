@@ -2,21 +2,13 @@
 
 ## Table of Content
   * [Overview](#Overview)
-  * [Installation](#Installation)
-  * [Artwork](Artwork)
+  * [Artwork](#Artwork)
 
 
 ## Overview
-The goal of this project was to explore Flask and build a static website to deploy the created model.
-Once the setup was done, predictions could be done based on input data.
+The goal of this project was to explore Stable Diffusion, ControlNet and Automatic1111.
+Bellow you can find a few outputs from several interesting workflows.
 
-![Titatic Survivor Prediction](https://github.com/pedromaiapatinha/Machine_Learning_with_Local_Deployment/assets/64651800/3fce1d91-9eda-4b76-8546-426208683e2a)
-
-## Installation
-The Code is written in Python 3.10.6. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
-```bash
-pip install -r requirements.txt
-```
 
 ## Artwork
 
